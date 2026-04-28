@@ -1,0 +1,6 @@
+{
+  "name": "ZenFlow",
+  "description": "Une application de concentration Pomodoro minimaliste avec gestion des tâches intégrée et persistance locale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
